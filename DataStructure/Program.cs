@@ -6,8 +6,7 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
-            PalindromeChecker.CheckPalindrome();
-
+            PrimeNumber2Dimension.PrimeNumber();
         }
     }
 }
