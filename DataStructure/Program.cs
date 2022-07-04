@@ -2,7 +2,7 @@
 
 namespace DataStructure
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -30,7 +30,7 @@ namespace DataStructure
                 list.addFirst(input);
             }
 
-            //Display the data present in the list after the completing the above said operations.
+            //Display the data present in the list after the completing the above  operations.
             list.diplayData();
         }
     }

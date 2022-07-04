@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructure
 {
-    internal class UnorderedList
+    public class UnorderedList
     {
         public class Node
         {
