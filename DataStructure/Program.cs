@@ -6,7 +6,7 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
-            CashCounter.Count();
+            PalindromeChecker.CheckPalindrome();
 
         }
     }
